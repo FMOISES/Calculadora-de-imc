@@ -1,0 +1,1 @@
+Aplicação em linguagem Dart utilizando o framework Flutter para as plataformas Android e iOS. O aplicativo calcula o índice de massa corporal e devolve o resultado com as informações de em  qual perfil de saúde você se encontra.
